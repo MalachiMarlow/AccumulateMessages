@@ -9,8 +9,9 @@ Module MessageProgram
     End Sub
 
     Function UserMessages(ByVal newMessage As String, ByVal clear As Boolean) As String
-        'your code here
-        Return messages
+        Console.WriteLine("")
+        Return ""
+        'messages
     End Function
 
 
